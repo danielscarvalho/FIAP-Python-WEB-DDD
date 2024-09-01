@@ -21,3 +21,4 @@ Referências:
 - https://penseallen.github.io/PensePython2e/14-arquivos.html
 - https://docs.python.org/pt-br/3/tutorial/inputoutput.html#reading-and-writing-files
 - https://www.alura.com.br/apostila-python-orientacao-a-objetos/arquivos-e-modulos
+- https://books.goalkicker.com/PythonBook/
