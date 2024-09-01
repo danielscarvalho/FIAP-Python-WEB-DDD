@@ -1,6 +1,6 @@
 # FIAP - Python - DDD
 ## Atividade
-### Arquivos E/S (Entrada e saída (IO))
+### Arquivos E/S (Entrada e saída - IO)
 
 Utilizar a biblioteca statistics do Python para analisar os dados do arquivo texto CSV de entrada sobre diabetes 
 
