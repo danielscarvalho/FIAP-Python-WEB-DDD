@@ -6,7 +6,7 @@ Utilizar a biblioteca statistics do Python para analisar os dados do arquivo tex
 
 - Em duplas/pares ([Pair Programming](https://en.wikipedia.org/wiki/Pair_programming))
 - Ler os dados do arquivo CSV e carregar em uma lista
-- Para as colunas numéricas calcular:
+- Para cada uma das colunas numéricas calcular:
   - Moda
   - Média
   - Mediana
