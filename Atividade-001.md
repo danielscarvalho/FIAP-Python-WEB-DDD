@@ -2,11 +2,11 @@
 ## Atividade
 ### Arquivos E/S (Entrada e saída (IO))
 
-Utilizar a biblioteca statistics do Python para analisar o arquivo de entrada sobre diabetes 
+Utilizar a biblioteca statistics do Python para analisar o arquivo texto CSV de entrada sobre diabetes 
 
 - Em duplas/pares ([Pair Programming](https://en.wikipedia.org/wiki/Pair_programming))
 - Ler os dados do arquivo CSV e carregar em uma lista
-- Para as colunas calcular:
+- Para as colunas numéricas calcular:
   - Moda
   - Média
   - Mediana
@@ -19,5 +19,5 @@ Utilizar a biblioteca statistics do Python para analisar o arquivo de entrada so
 Referências:
 - https://docs.python.org/3/library/statistics.html
 - https://penseallen.github.io/PensePython2e/14-arquivos.html
-- https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
-- 
+- https://docs.python.org/pt-br/3/tutorial/inputoutput.html#reading-and-writing-files
+- https://www.alura.com.br/apostila-python-orientacao-a-objetos/arquivos-e-modulos
