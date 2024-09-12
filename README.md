@@ -17,3 +17,4 @@ Bibliografia:
 - Oracle Database Documentation - https://docs.oracle.com/en/database/oracle/oracle-database/index.html
 - MySQL 8.4 Reference Manual - https://dev.mysql.com/doc/refman/8.4/en/
 - SQL Notes for Professionals book - https://books.goalkicker.com/SQLBook/
+- Python 3.12.6 documentation - https://docs.python.org/3/
