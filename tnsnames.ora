@@ -1,0 +1,12 @@
+net_service_name= 
+(DESCRIPTION_LIST=
+(DESCRIPTION=(ADDRESS=(PROTOCOL=TCPS)
+             (HOST=oracle.fiap.com.br)
+             (PORT=1521))
+(CONNECT_DATA=(SERVER=DEDICATED)
+              (SERVICE_NAME=oracle.fiap.com.br)
+              (SID = orcl)))
+
+
+
+)
