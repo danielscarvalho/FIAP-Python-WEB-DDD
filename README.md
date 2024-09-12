@@ -13,3 +13,5 @@ Bibliografia:
 - Python Fluente, Segunda Edição (2023), de Luciano Ramalho - https://pythonfluente.com/
 - Flask Documentation (3.0.x) - https://flask.palletsprojects.com/en/3.0.x/
 - Requests: HTTP for Humans - https://requests.readthedocs.io/en/latest/
+- Oracle Database Documentation - https://docs.oracle.com/en/database/oracle/oracle-database/index.html
+- MySQL 8.4 Reference Manual - https://dev.mysql.com/doc/refman/8.4/en/
